@@ -2,7 +2,8 @@
 I'm Anna, an aspiring front-end developer. I love creating and solving problems. Welcome to my GitHub profile! 
 
 ### Connect with me:
-* Linkedin: [linkedin.com/in/anna-kalis-3751ab82](https://www.linkedin.com/in/anna-kalis-3751ab82/)
+
+* Linkedin: [![Linkedin logo](\icons\icons8-linkedin-48.png)](https://www.linkedin.com/in/anna-kalis-3751ab82/)
 * Email: annkalis@gmail.com
 
 ### Technical skills
