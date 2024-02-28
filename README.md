@@ -3,7 +3,7 @@ I'm Anna, an aspiring front-end developer. I love creating and solving problems.
 
 ### Connect with me:
 [<img align="left" src="/icons/icons8-linkedin-48.png" alt="linkedin icon" width=”35px”/>](https://www.linkedin.com/in/anna-kalis-3751ab82/)
-[<img align="left" src="/icons/icons8-gmail-48.png" alt="gmail icon" width=”35px”/>](annkalis@gmail.com) 
+[<img align="left" src="/icons/icons8-gmail-48.png" alt="gmail icon" width=”35px”/>](mailto:annkalis@gmail.com) 
 
 <p>&nbsp;</p><br>
 
