@@ -2,9 +2,9 @@
 I'm Anna, an aspiring front-end developer. I love creating and solving problems. Welcome to my GitHub profile! 
 
 ### Connect with me:
-<a href=”https://www.linkedin.com/in/anna-kalis-3751ab82/"><img align="left" src="/icons/icons8-linkedin-48.png" alt="linkedin icon" width=”35px”/></a>
-* Linkedin: [linkedin.com/in/anna-kalis-3751ab82](https://www.linkedin.com/in/anna-kalis-3751ab82/)
-* Email: annkalis@gmail.com
+[<img align="left" src="/icons/icons8-linkedin-48.png" alt="linkedin icon" width=”35px”/>](https://www.linkedin.com/in/anna-kalis-3751ab82/)
+[<img align="left" src="/icons/icons8-gmail-logo-94.png" alt="gmail icon" width=”35px”/>](annkalis@gmail.com)
+
 
 ### Technical skills
 * Code: Java Script, HTML5
