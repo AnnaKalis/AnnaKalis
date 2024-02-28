@@ -11,7 +11,7 @@ I'm Anna, an aspiring front-end developer. I love creating and solving problems.
 * Tools: Figma, GitHub
 
 ### Portfolio
-You will find some projects I have worked on on my  ([portfolio website](https://anna-kalis-portfolio.netlify.app/)).
+You will find some projects I have worked on on my  [portfolio website](https://anna-kalis-portfolio.netlify.app/).
 
 
 
