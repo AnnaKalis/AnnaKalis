@@ -1,5 +1,17 @@
 ### Hi there 👋
-I'm Anna, an aspiring front-end developer. I love creating and solving problems. Welcome to my GitHub profile! 
+I'm Anna, an aspiring front-end developer. I love creating functionally robust websites and solving problems. Welcome to my GitHub profile! 
+
+:mortar_board: I have master degree in International business.  
+:pencil: I have many yaers of work expercience from research administration (university and hospital).  
+:school: Currenly learning front-end development at Noroff school of technology.   
+:seedling: I'm keen to learn more about JavaScript and dive deeper into its world.
+
+
+Whem I am not coding, I like to:   
+:family: Spend time with my family.  
+:sunrise_over_mountains: Explore outdoor activities. I enjoy hiking, walking, skiing, swimming and beeing in nature.  
+:books:  I love getting lost in a good story and read books that offer opportunities to learn something enriching.
+
 
 ## Connect with me:
 [![linkedin icon](/icons/icons8-linkedin-48.png)](https://www.linkedin.com/in/anna-kalis-3751ab82/)
