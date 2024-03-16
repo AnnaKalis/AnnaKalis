@@ -2,7 +2,7 @@
 I'm Anna, an aspiring front-end developer. I love creating functionally robust websites and solving problems. Welcome to my GitHub profile! 
 
 :mortar_board: I have master degree in International business.  
-:pencil: I have many yaers of work expercience from research administration (university and hospital).  
+:pencil: I have many years of work expercience from research administration and project economics.  
 :school: Currenly learning front-end development at Noroff school of technology.   
 :seedling: I'm keen to learn more about JavaScript and dive deeper into its world.
 
